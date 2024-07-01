@@ -4,7 +4,7 @@ This project is a simple Hotel Reservation System implemented in Java using JDBC
 
 ## Table of Contents
 
-- [What I Learned](#What I Learned)
+- [What I Learned](#what-i-learned)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
